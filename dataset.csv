@@ -1,4 +1,4 @@
-order_number,date,casting_weight_gr,material,modul,inoculant_weight_gr
+order_number,date,casting_weight_g,material,modul,inoculant_weight_g
 170631881,11/16/2022,38372,S,1.04,1430
 170631861,11/16/2022,10863,S,0.91,603
 170631885,11/15/2022,112445,S,1.04,4145
